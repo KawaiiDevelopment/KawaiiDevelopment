@@ -1,8 +1,9 @@
-- 👋 Olá, eu sou @KawaiiDevelopment (Gustavo)
-- 👀 Estou interessando em criar um GAME RPG, TERROR PSICOLOGICO
-- 🌱 Estou atualmente aprendendo C#
+- 👋 Olá, Chamo-me Gustavo Valença Marcilio
+- 👀 Estou interessado em criar um jogo do gênero: Terror, terror psicológico, mistério, sobrenatural e gore
+- 🌱 Estou atualmente aprendendo JAVA
 - 💞️ Estou procurando colaborar no que precisar
-- 📫 Para me enviar mensagens, me adicione no discord: @GuuhM1neBR
+- 📫 Para contatar-me: gustavovalencamarcilio@gmail.com
+- 📫 Discord: @KairoshiYT
 
 <!---
 KawaiiDevelopment/KawaiiDevelopment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
